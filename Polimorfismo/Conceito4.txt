@@ -1,0 +1,7 @@
+
+Polimorfismo:
+
+    O polimorfismo é a técnica de fornecer uma interface comum para objetos de diferentes classes,
+permitindo que eles sejam tratados de forma semelhante, independentemente de suas diferenças de implementação.
+Isso significa que um método pode ser usado para diferentes objetos de diferentes classes, sem que o método
+precise saber exatamente qual é a classe de cada objeto.
