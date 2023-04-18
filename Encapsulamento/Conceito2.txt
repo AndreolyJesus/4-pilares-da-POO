@@ -1,0 +1,6 @@
+
+Encapsulamento:
+
+    O encapsulamento é a técnica de esconder o estado interno de um objeto e fornecer uma interface pública
+para interagir com ele. Isso significa que os dados internos de um objeto não são acessíveis
+diretamente do exterior, mas somente por meio de métodos específicos que são expostos publicamente.
