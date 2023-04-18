@@ -1,0 +1,7 @@
+
+Abstração:
+
+    A abstração é a técnica de representar um objeto ou um conceito em termos de suas características essenciais,
+ignorando detalhes não essenciais. Isso significa que um objeto deve ser projetado para representar
+apenas as informações relevantes e necessárias, deixando de lado as informações irrelevantes
+e detalhes de implementação.
