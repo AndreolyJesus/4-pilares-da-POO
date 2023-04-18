@@ -1,0 +1,7 @@
+
+Herança:
+
+    A herança é a técnica de criar uma nova classe a partir de uma classe existente,
+com a finalidade de aproveitar as características da classe original e adicionar
+novas características ou alterar as existentes. A classe original é chamada de classe base ou classe pai,
+e a nova classe é chamada de classe derivada ou classe filha.
